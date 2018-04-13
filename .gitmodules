@@ -1,3 +1,7 @@
 [submodule "themes/coder"]
 	path = themes/coder
 	url = https://github.com/rodrigobdz/landing-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/rodrigobdz/rodrigobdz.github.io.git
+	branch = master
