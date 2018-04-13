@@ -1,0 +1,22 @@
+
+baseURL = "https://rodrigobdz.github.io/"
+languageCode = "en-us"
+title = "Rodrigo"
+
+theme = "coder"
+
+[params]
+    author = "Rodrigo Bermudez Schettino"
+    info = "Software Engineer"
+    description = "Rodrigo Bermudez Schettino - Full Stack developer specialized in mobile and web applications."
+    keywords = "developer,personal,performance,web,mobile"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/rodrigobdz/"
+
+[[params.social]]
+    name = "Gists"
+    weight = 2
+    url = "https://gist.github.com/rodrigobdz"
