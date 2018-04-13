@@ -5,11 +5,14 @@ title = "Rodrigo"
 
 theme = "coder"
 
+googleAnalytics = "UA-106055732-1"
+
 [params]
     author = "Rodrigo Bermudez Schettino"
     info = "Software Engineer"
     description = "Rodrigo Bermudez Schettino - Full Stack developer specialized in mobile and web applications."
     keywords = "developer,personal,performance,web,mobile"
+    googleSiteVerification = "C_fxzZb-_DDTkHV-y1tTeKK5FRt041aI-KZtcW8zwIo"
 
 [[params.social]]
     name = "Github"
