@@ -5,8 +5,6 @@ title = "Rodrigo"
 
 theme = "coder"
 
-googleAnalytics = "UA-106055732-1"
-
 [params]
     author = "Rodrigo Bermudez Schettino"
     info = "Software Engineer"
