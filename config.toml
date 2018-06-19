@@ -9,15 +9,20 @@ theme = "coder"
     author = "Rodrigo Bermudez Schettino"
     info = "Software Engineer"
     description = "Rodrigo Bermudez Schettino - Full Stack developer specialized in mobile and web applications."
-    keywords = "developer,personal,performance,web,mobile"
+    keywords = "developer,personal,performance,web,mobile,software,engineer"
     googleSiteVerification = "C_fxzZb-_DDTkHV-y1tTeKK5FRt041aI-KZtcW8zwIo"
 
 [[params.social]]
-    name = "Github"
+    name = "Linkedin"
     weight = 1
+    url = "https://www.linkedin.com/in/rodrigobdz/"
+
+[[params.social]]
+    name = "Github"
+    weight = 2
     url = "https://github.com/rodrigobdz/"
 
 [[params.social]]
     name = "Gists"
-    weight = 2
+    weight = 3
     url = "https://gist.github.com/rodrigobdz"
